@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+Сверстано по макету в Figma: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0
+
 О чем: данный проект позволяет узнать информацию о некоторых интересных природных местах России.
 
 Где можно посмотреть проект: в браузерах Yandex, Chrome, Mozilla.
