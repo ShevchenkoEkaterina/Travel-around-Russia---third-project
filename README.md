@@ -5,7 +5,7 @@
 О чем: данный проект позволяет узнать информацию о некоторых интересных природных местах России.
 
 Где можно посмотреть проект: в браузерах Yandex, Chrome, Mozilla.
-По ссылке: https://github.com/ShevchenkoEkaterina/Travel-around-Russia---third-project
+По ссылке: https://shevchenkoekaterina.github.io/Travel-around-Russia---third-project/index.html 
 
 Какие технологии использованы: 
 1. Адаптивная верстка для экранов от 320px до бесконечности;
