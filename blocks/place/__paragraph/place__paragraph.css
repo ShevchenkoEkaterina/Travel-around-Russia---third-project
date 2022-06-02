@@ -22,11 +22,11 @@
 @media (max-width: 767px) {
   .place__paragraph {
     margin: 0 0 0 16px;
+    max-width: 288px;
   }
 
   .place__paragraph:not(:last-child) {
     margin: 0 0 25px 16px;
-    max-width: 288px;
  }
 }
     
