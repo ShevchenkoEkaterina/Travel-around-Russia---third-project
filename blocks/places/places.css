@@ -2,6 +2,7 @@
     margin: 92px 148px 92px 148px;
     padding: 0px;
     max-width: 984px;
+    list-style-type: none;
 }
 
 @media (max-width: 1279px) {
