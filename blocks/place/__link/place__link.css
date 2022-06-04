@@ -4,21 +4,9 @@
     line-height: 1.22;
     margin: 12px 0 0 0;
     padding: 0px;
-    max-width: 456px;
+    max-width: max-content;
 }
 
 .place__link:hover{
     opacity: 0.8;
-}
-  
-@media (max-width: 1023px) {
-  .place__link {
-    max-width: 352px;
-  }
-}
-      
-@media (max-width: 767px) {
-  .place__link {
-    max-width: 288px;
-  }
 }

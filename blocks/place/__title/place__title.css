@@ -6,6 +6,7 @@
     padding: 0;
     grid-area: title;
     max-width: 460px;
+    font-weight: 900;
 }
 
 @media (max-width: 1279px) {

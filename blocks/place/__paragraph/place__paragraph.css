@@ -3,20 +3,15 @@
     font-size: 18px;
     line-height: 1.63;
     padding: 0px;
+    margin: 0px;
 }
 
-.place__paragraph:not(:last-child) {
-    margin: 0 0 26px 0;
-}
 
 @media (max-width: 1023px) {
   .place__paragraph {
     font-size: 16px;
   }
 
-  .place__paragraph:not(:last-child) {
-    margin: 0 0 25px 0;
-}
 }
 
 @media (max-width: 767px) {
@@ -25,8 +20,5 @@
     max-width: 288px;
   }
 
-  .place__paragraph:not(:last-child) {
-    margin: 0 0 25px 16px;
- }
 }
     

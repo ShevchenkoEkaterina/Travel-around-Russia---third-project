@@ -16,6 +16,7 @@
   .lead__image {
     min-height: 480px;
     max-width: 768px;
+    width: 100%;
   }
 }
 
@@ -23,5 +24,6 @@
   .lead__image {
     min-height: 200px;
     max-width: 320px;
+    width: 100%;
   }
 }
